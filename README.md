@@ -1,5 +1,5 @@
   
-  ## Lucas Cassimiro - Desenvolvedor FrontEnd Jr.
+  ## Lucas Cassimiro - Desenvolvedor Full Stack.
   ### Perfil em construção
 
 <div>
