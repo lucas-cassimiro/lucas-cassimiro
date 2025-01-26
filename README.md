@@ -1,8 +1,8 @@
 <h1 align="center">Olá! Eu sou Lucas Cassimiro</h1>
 
-<h2 align="center"> I'm a passionate Software Engineer from Brazil <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Flag_of_Brazil.svg" alt="Flag of Brazil" width="2%" height="2%" /> </h2>
+<h2 align="center"> Desenvolvedor Full Stack <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Flag_of_Brazil.svg" alt="Flag of Brazil" width="2%" height="2%" /> </h2>
 
-<h2> Connect with me </h2>
+<h2>Conecte-se comigo</h2>
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucasocassimiro/)
 
