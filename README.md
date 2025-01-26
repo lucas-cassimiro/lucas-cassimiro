@@ -1,7 +1,6 @@
 <h1 align="center">Olá! Eu sou Lucas Cassimiro</h1>
 
 <h2 align="center"> I'm a passionate Software Engineer from Brazil <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Flag_of_Brazil.svg" alt="Flag of Brazil" width="2%" height="2%" /> </h2>
-<h3 align="center"> I have a Bachalor's degree in Informations Systems from <a href="">USP</a> and I currently work at <a href="https://www.itau.com.br">Itaú</a>. </h3>
 
 <h2> Connect with me </h2>
 
