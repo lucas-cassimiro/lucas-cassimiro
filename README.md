@@ -1,6 +1,6 @@
 <h1 align="center">Olá! Eu sou Lucas Cassimiro</h1>
 
-<h2 align="center"> Engenheiro de Software Full Stack - <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Flag_of_Brazil.svg" alt="Flag of Brazil" width="2%" height="2%" /> </h2>
+<h2 align="center"> Engenheiro de Software Full Stack - <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Flag_of_Brazil.svg" alt="Flag of Brazil" width="3%" height="3%" /> </h2>
 
 <h2>Conecte-se comigo</h2>
 
